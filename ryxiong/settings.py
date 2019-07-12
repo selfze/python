@@ -67,7 +67,7 @@ TEMPLATES = [
         },
     },
 ]
-
+# nsaiflnas
 WSGI_APPLICATION = 'ryxiong.wsgi.application'
 
 
