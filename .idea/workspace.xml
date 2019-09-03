@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3fd3b0c-3195-43e5-86a1-ce70de8ee6be" name="Default Changelist" comment="">
+<<<<<<< HEAD
 <<<<<<< Updated upstream
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> dev
       <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,11 +35,15 @@
         <entry file="file://$PROJECT_DIR$/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="192">
+<<<<<<< HEAD
 <<<<<<< Updated upstream
               <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
 =======
               <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
 >>>>>>> Stashed changes
+=======
+              <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+>>>>>>> dev
             </state>
           </provider>
         </entry>
@@ -194,11 +201,15 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
 <<<<<<< Updated upstream
     <option name="totallyTimeSpent" value="9711000" />
 =======
     <option name="totallyTimeSpent" value="9102000" />
 >>>>>>> Stashed changes
+=======
+    <option name="totallyTimeSpent" value="8982000" />
+>>>>>>> dev
   </component>
   <component name="ToolWindowManager">
     <frame x="9" y="0" width="1334" height="952" extended-state="0" />
@@ -273,11 +284,15 @@
     <entry file="file://$PROJECT_DIR$/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
+<<<<<<< HEAD
 <<<<<<< Updated upstream
           <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
 =======
           <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
 >>>>>>> Stashed changes
+=======
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+>>>>>>> dev
         </state>
       </provider>
     </entry>
